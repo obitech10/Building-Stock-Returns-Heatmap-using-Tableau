@@ -1,5 +1,5 @@
 # Building-Stock-Returns-Heatmap-using-Tableau
-Project Objective
+Project Objectives
 
 1)Extract stock data using Google Finance
 
